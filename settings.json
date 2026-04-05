@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "voidcoresmpbot24_7",
+    "password": "voidcoresmp123",
     "type": "offline"
   },
   "server": {
     "ip": "voidcoresmp.play.hosting",
-    "port": 41851,
-    "version": "",
+    "port": 57347,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "voidcoresmp12345"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "remeber get staked",
+        "tell your friends to join!!!!",
+        "subscribe to @Dimas-skyQ!!!!!"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/c9yjkBpm",
     "events": {
       "connect": true,
       "disconnect": true,
