@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "serverbotcore",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "serverbotsmpcore",
+    "password": "voidcoresmp12345",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "voidcoresmp.play.hosting",
+    "port": 57347,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
